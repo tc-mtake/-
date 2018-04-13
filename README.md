@@ -1,2 +1,2 @@
-# timeconicer.com
+# てすと.com
 .comのリポジトリ
